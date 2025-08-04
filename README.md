@@ -362,9 +362,9 @@ MIT License - see [LICENSE.md](LICENSE.md) for details.
 
 **Your Name** - [jesusmartinvz@gmail.com](jesusmartinvz@gmail.com)
 
-**Project Link:** [https://github.com/your-username/project-management-system](https://github.com/your-username/project-management-system)](https://github.com/jesusmartinvz/tastflow_angular)
+**Project Link:** [https://github.com/jesusmartinvz/tastflow_angular](https://github.com/jesusmartinvz/tastflow_angular)
 
-**Portfolio:** [https://your-portfolio.com](https://github.com/jesusmartinvz/)](https://github.com/jesusmartinvz/)
+**Portfolio:** [https://github.com/jesusmartinvz/](https://github.com/jesusmartinvz/)
 =======
 # TaskflowAngular
 
@@ -427,3 +427,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
 >>>>>>> master
+
