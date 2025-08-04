@@ -308,7 +308,7 @@ This project follows collaborative development best practices:
 
 ## 📱 **Live Demo**
 
-🔗 **[View Live Demo](https://your-demo-url.vercel.app)**
+🔗 **[View Live Demo](https://github.com/jesusmartinvz/)**
 
 ### **Test Credentials**
 ```
@@ -360,11 +360,11 @@ MIT License - see [LICENSE.md](LICENSE.md) for details.
 
 ## 📧 **Contact**
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Your Name** - [jesusmartinvz@gmail.com](jesusmartinvz@gmail.com)
 
-**Project Link:** [https://github.com/your-username/project-management-system](https://github.com/your-username/project-management-system)
+**Project Link:** [https://github.com/your-username/project-management-system](https://github.com/your-username/project-management-system)](https://github.com/jesusmartinvz/tastflow_angular)
 
-**Portfolio:** [https://your-portfolio.com](https://your-portfolio.com)
+**Portfolio:** [https://your-portfolio.com](https://github.com/jesusmartinvz/)](https://github.com/jesusmartinvz/)
 =======
 # TaskflowAngular
 
@@ -425,4 +425,5 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
 >>>>>>> master
